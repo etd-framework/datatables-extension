@@ -1,0 +1,9 @@
+{
+  "name": "etdsolutions/datatables-extensions",
+  "description": "Shim repository for DataTables Extensions",
+  "homepage": "http://datatables.net/extensions/index",
+  "license": "MIT",
+  "require": {
+    "datatables/datatables": ">=1.10"
+  }
+}
